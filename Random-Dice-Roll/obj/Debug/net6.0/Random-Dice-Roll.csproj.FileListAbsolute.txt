@@ -1,0 +1,14 @@
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\obj\Debug\net6.0\Random-Dice-Roll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\obj\Debug\net6.0\Random-Dice-Roll.AssemblyInfoInputs.cache
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\obj\Debug\net6.0\Random-Dice-Roll.AssemblyInfo.cs
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\obj\Debug\net6.0\Random-Dice-Roll.csproj.CoreCompileInputs.cache
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\bin\Debug\net6.0\Random-Dice-Roll.exe
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\bin\Debug\net6.0\Random-Dice-Roll.deps.json
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\bin\Debug\net6.0\Random-Dice-Roll.runtimeconfig.json
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\bin\Debug\net6.0\Random-Dice-Roll.dll
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\bin\Debug\net6.0\Random-Dice-Roll.pdb
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\obj\Debug\net6.0\Random-Dice-Roll.dll
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\obj\Debug\net6.0\refint\Random-Dice-Roll.dll
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\obj\Debug\net6.0\Random-Dice-Roll.pdb
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\obj\Debug\net6.0\Random-Dice-Roll.genruntimeconfig.cache
+C:\Users\rzepk\source\repos\Random-Dice-Roll\Random-Dice-Roll\obj\Debug\net6.0\ref\Random-Dice-Roll.dll
